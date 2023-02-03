@@ -1,4 +1,4 @@
-public class LeassonEightRunner {
+public class LessonEightRunner {
     public static void main(String[] args) {
         double doubleValue = 12.98; // define + initialization
         System.out.println(doubleValue);
