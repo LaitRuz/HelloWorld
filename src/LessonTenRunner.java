@@ -4,7 +4,7 @@ public class LessonTenRunner {
         int x = 167;
         boolean result = 0 < x && x <= 100;
         System.out.println(!result);
-
+ 
 
         // <, >, ==, <=, >=, !=
         /*boolean value = 10 >5;
