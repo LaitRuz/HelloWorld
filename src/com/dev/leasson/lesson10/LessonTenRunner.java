@@ -1,3 +1,5 @@
+package com.dev.leasson.lesson10;
+
 public class LessonTenRunner {
     public static void main(String[] args) {
         // 0 < x <= 100
@@ -7,11 +9,11 @@ public class LessonTenRunner {
  
 
         // <, >, ==, <=, >=, !=
-        /*boolean value = 10 >5;
+        /* boolean value = 10 >5;
         System.out.println(value); //true
         System.out.println(10 > 20); //false
         System.out.println(7 == 6); //false
         System.out.println(5 >= 4); // true
-        System.out.println(90 != 90); //false*/
+        System.out.println(90 != 90); //false */
     }
 }

@@ -1,3 +1,5 @@
+package com.dev.leasson.lesson8;
+
 public class LessonEightRunner {
     public static void main(String[] args) {
         double doubleValue = 12.98; // define + initialization

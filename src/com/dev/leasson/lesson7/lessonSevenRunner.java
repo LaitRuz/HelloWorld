@@ -1,3 +1,5 @@
+package com.dev.leasson.lesson7;
+
 public class lessonSevenRunner {
     public static void main(String[] args) {
         System.out.println(25); // int
