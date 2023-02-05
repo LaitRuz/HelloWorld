@@ -27,7 +27,7 @@ public class Task1 {
             System.out.println("Spring");
         } else if (6 <= mouth && mouth <= 8) {
             System.out.println("Summer");
-        } else if (9 <= mouth && mouth <= 11){
+        } else if (9 <= mouth && mouth <= 5){
             System.out.println("Autumn");
         } else {
             System.out.println("Mouth is invalid " + mouth);
